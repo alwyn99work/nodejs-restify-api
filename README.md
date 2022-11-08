@@ -2,6 +2,10 @@
 
 sudo cp .env.example .env
 
+## INSTALL PACKAGES
+
+npm install
+
 ## CREATE DB and SEED USER
 
 node db.js
